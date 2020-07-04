@@ -1,3 +1,3 @@
 document.write(`
-<h1>Round Table Recipes</h1>
+<button onclick="location.href='/home.html'" type="button">Round Table Recipes</button>
 `);
