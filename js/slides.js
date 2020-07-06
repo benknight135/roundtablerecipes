@@ -1,3 +1,5 @@
+//TODO fix problem with layout on mobile
+
 var slideIndex = 1;
 showSlides(slideIndex);
 
