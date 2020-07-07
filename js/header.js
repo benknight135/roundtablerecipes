@@ -1,4 +1,6 @@
 document.write(`
-<button onclick="location.href='/home.html'" type="button">Round Table Recipes</button>
+<a href="/index.html">
+<img src="/logo/rtr_logo_round.png" alt="Round Table Recipes" style="width:10%;">
+</a>
 <button onclick="location.href='/recipes/chorizoomelette/chorizoomelette.html'" type="button">Latest Recipe</button>
 `);
